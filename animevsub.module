@@ -1,0 +1,36 @@
+#!name= Adblock animevietsub 
+
+#!desc= Chặn quảng cáo web animevietsub
+
+#!homepage=https://hasukatsu.online
+
+#!author= Hasukatsu
+
+#!icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
+
+
+[URL Rewrite]
+
+# Block Ads Start
+
+# Thêm các filter quảng cáo cho animevietsub.tube
+
+||lh3.googleusercontent.com/26b_nBWbFZ-4ebKeOG0CrU1dGdj0YX752bRO4dxzDEkQ6DoEaDBSOdlauINB1_JMMOv2lgmoWOL-PQaHMQPMpT-ZQKf_K-f8if49fGEDTY_2AqUkTFY-KqSXg7nGnw=s0$image
+||lh3.googleusercontent.com/dF9FfALWIz1A09aMdwc7uK7DmTbCLartzZR1184ifHqd1q1SSX1dJRXENjvFJClCujBSk7Oh-wqhRxIRkRMi5QRUMysvvg3dBzJWKyc3FnZ6i8FButz7Nk6y3VuV=s0$image
+||lh3.googleusercontent.com/nMMQLMke10b1-Nf3BsayXOznq7y-joS_QhR7XAa8yM97DjlgF6_8CzfD_7MHnBr81osLAKdT03j_e7LERwDYJebugJih7XCxNopMCBCwaO-4syYD8F-lX5Y48uL_=s0$image
+||lh3.googleusercontent.com/UWgKkTV7NNMLOZDzcyO4zPxml-ram7NXcOOUX8-Qt3dX-lOMlgxnv8JG3hvVBgJRx6GBnjbvzD9atKRua-vD_hbcgaoLsCOc1uvXulO-3xefd5d14C8h4pJDWV10=s0$image
+||lh3.googleusercontent.com/V8jfdzmgCu877MnEtUrZGmyWWVJprkQjzmjBmd5N3JaYYlAHPyupgTm_-etzVWkiHKWDSxxjDYgBU8PHjiJOZGmOid7E6SEcyjoCl3Xq4dM-ZBR3ipIPrAEggNE=s0$image
+||lh3.googleusercontent.com/_geScqesHhW2C7oiINAkcJhagFyBC4eej4hL7qyBL9Zp89X04s6hDYjwLcLNIP1f8_DuehMc0zAv8uBRAL1GLD1vfHJD48DMOsUz1CIXMGrE3NQYoJpwuUvd34fpOg=s0$image
+||lh3.googleusercontent.com/FKP6AYml34vHfA3VNk9QRORIj1cpvEE-Qm-5EgQRfVVUk7BLfpHrAoWZ9ZZZUBJa9C9PbuABQuEleVHxJEIDBj4NzQzhUpHjnYS1GpnNl1kwZ4b5TKR5SmsnN1s=s0$image
+||lh3.googleusercontent.com/i99KahFvLuJSk2HqegRgUqIcCaXGKK0ly2T9PPVyvV8zlP7cvAL6tMOSIHhO8mITEFEMJG699aswIhx75qMrniuGlgtq8oOxLi42htPyDyul4Zbjs-ZK-XsaMuhs=s0$image
+
+# Thêm filter từ ngày 12 tháng 10, 2024
+||lh3.googleusercontent.com/3BswnqJtN-xv_j4CZGVVYSEvCRpo_ficqPqClaA3x7IjfFMt0c1jZvGVgtHvbke5N9IvIhQjzEFBSszno1U7thWLzGuUE2nZPEljmVLCRFd7RmqjyFdkqp29Pzc=s0$image
+
+# Thêm filter từ ngày 13 tháng 10, 2024
+||lh3.googleusercontent.com/6OFgNmKW8dpR5vOzkqbiRznsYq_nv25r2HoBrWyqlmQrcuKPk-J_pMB5-IAbg3i-YB0A0DdQ7ob92P9N_NYkY8oL1KvTAQKsCd3b2aeznl5T7fFAKCotv7iiHnmG-A=s0$image
+
+# Thêm filter từ ngày 14 tháng 10, 2024
+||lh6.googleusercontent.com/niNvqW87lyRKXDaWknU-K7iiTx6_sAPg_cyDtbJhk_RhXK1hFYPGjIsdM9F6DDyqsDD9IdPZv3hKHkkM2lNZGMFaDdvll8bV6B0n3SFONcjrGY9YY1gM6KQd28Zl=s0$image
+
+# Block Ads End
